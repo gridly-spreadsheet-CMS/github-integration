@@ -1,5 +1,5 @@
 # Building a localization workflow using GitHub
-
+![Image](./resources/images/github-integration.png)
 Multilingual CSV files are commonly used by developers to store and transfer translation content to LSPs. Since so much of the development environment is automated or semi-automated, why not automate the CSV transfer process as well? In this tutorial, you’ll learn how to implement a CSV file import/export integration between Gridly and GitHub, using an AWS Lambda script executed straight from Gridly.
 
 ## Automation Localization
